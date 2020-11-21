@@ -1,7 +1,6 @@
 # PH Fill
 
 
-<img src="Screenshots/RequestPage.jpg" width="300" height="500">
 
 The basic idea behind the app is to inform the government about the required construction of Potholes located at any place so as to avoid serious accidents.
 
