@@ -7,6 +7,7 @@ The basic idea behind the app is to inform the government about the required con
 And its Computer vision based algorithm detects the overall damage percentage of Pothole and give sufficient information in government database about the neccessity of required construction in that particular pothole.
 
 
+<img src="Screenshots/RequestPage.jpg" width="300" height="500">
 <img src="Screenshots/FillingDetails.jpg" width="300" height="500">
 
 
