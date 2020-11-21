@@ -8,7 +8,7 @@ And its Computer vision based algorithm detects the overall damage percentage of
 Scroll for more images!.
 
 
-<img src="Screenshots/RequestPage.jpg" width="300" height="500">   &nbsp;   <img src="Screenshots/FillingDetails.jpg" width="300" height="500"> 
+<img src="Screenshots/RequestPage.jpg" width="300" height="500">   &nbsp; &nbsp; &nbsp;  <img src="Screenshots/FillingDetails.jpg" width="300" height="500"> 
 
 
 
@@ -23,7 +23,7 @@ Scroll for more images!.
 
 1. User will login through Gmail/Phone authentication.
 
-<img src="Screenshots/loginScreen.jpg" width="300" height="500">   <img src="Screenshots/PhoneAuthentication.jpg" width="300" height="500">
+<img src="Screenshots/loginScreen.jpg" width="300" height="500">   &nbsp; &nbsp; &nbsp;   <img src="Screenshots/PhoneAuthentication.jpg" width="300" height="500">
 
 2. Main screen will appear , here it will capture 3 images from different angle.
 
