@@ -1,8 +1,16 @@
 # PH Fill
 
+
+<img src="Screenshots/RequestPage.jpg" width="300" height="400">
+
 The basic idea behind the app is to inform the government about the required construction of Potholes located at any place so as to avoid serious accidents.
 
 And its Computer vision based algorithm detects the overall damage percentage of Pothole and give sufficient information in government database about the neccessity of required construction in that particular pothole.
+
+
+<img src="Screenshots/FillingDetails.jpg" width="300" height="400">
+
+
 
 # Used Technology and equipments:
 
