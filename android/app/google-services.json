@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "332920293874",
+    "firebase_url": "https://hackathon-fb7e5.firebaseio.com",
+    "project_id": "hackathon-fb7e5",
+    "storage_bucket": "hackathon-fb7e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332920293874:android:12cbb6b2c5f651db2ec36b",
+        "android_client_info": {
+          "package_name": "panda.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332920293874-c1slbg27m7lfanfrtefdakqlb63hjqga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "panda.flutterapp",
+            "certificate_hash": "602b851ee7251f4eda266ad20dcdd8ac3bd0f3b8"
+          }
+        },
+        {
+          "client_id": "332920293874-taro5ve37k3snimnseks23f6mk5dg1gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3CSwMROgJWXjrzt0YuMHp6QYc2p_rtsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332920293874-taro5ve37k3snimnseks23f6mk5dg1gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
