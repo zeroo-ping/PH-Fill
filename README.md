@@ -1,6 +1,6 @@
-# ph_fill
+# PH Fill
 
-A new Flutter project.
+The basic idea behind the app is to inform the government about the required construction of Potholes located at any place so as to avoid serious accidents.
 
 ## Getting Started
 
