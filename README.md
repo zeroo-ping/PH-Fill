@@ -14,6 +14,8 @@ And its AI/ML based algorithm detects the overall damage percentage of Pothole a
 # How it will work:
 
 1. User will login through Gmail/Phone authentication.
+
+<img src="Screenshots/FillingDetails.jpg" width="300" height="400">
 2. Main screen will appear , here it will capture 3 images from different angle.
 3. click on Location button, so as to reach current location.
 4. Fill the response in The response Box.
