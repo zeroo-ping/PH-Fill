@@ -2,15 +2,11 @@
 
 The basic idea behind the app is to inform the government about the required construction of Potholes located at any place so as to avoid serious accidents.
 
-## Getting Started
+And its AI/ML based algorithm detects the overall damage percentage of Pothole and give sufficient information in government database about the neccessity of required construction in that particular pothole.
 
-This project is a starting point for a Flutter application.
+# Used Technology and equipments:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Flutter ( for design ,frontend+backend).
+2. Al/ML based algorithm (Which will detects the overall damage in picture   captured by user).
+3. Camera Integration (To capture images).
+4. Location Integration ( which will take user current location).
