@@ -5,9 +5,10 @@
 The basic idea behind the app is to inform the government about the required construction of Potholes located at any place so as to avoid serious accidents.
 
 And its Computer vision based algorithm detects the overall damage percentage of Pothole and give sufficient information in government database about the neccessity of required construction in that particular pothole.
+Scroll for more images!.
 
 
-<img src="Screenshots/RequestPage.jpg" width="300" height="500">     <img src="Screenshots/FillingDetails.jpg" width="300" height="500"> 
+<img src="Screenshots/RequestPage.jpg" width="300" height="500">   &nbsp; &nbsp; &nbsp;  <img src="Screenshots/FillingDetails.jpg" width="300" height="500"> 
 
 
 
@@ -22,7 +23,7 @@ And its Computer vision based algorithm detects the overall damage percentage of
 
 1. User will login through Gmail/Phone authentication.
 
-<img src="Screenshots/loginScreen.jpg" width="300" height="500">   <img src="Screenshots/PhoneAuthentication.jpg" width="300" height="500">
+<img src="Screenshots/loginScreen.jpg" width="300" height="500">   &nbsp; &nbsp; &nbsp;   <img src="Screenshots/PhoneAuthentication.jpg" width="300" height="500">
 
 2. Main screen will appear , here it will capture 3 images from different angle.
 
@@ -38,8 +39,8 @@ And its Computer vision based algorithm detects the overall damage percentage of
 
 <img src="Screenshots/Submiting.jpg" width="300" height="500">
 
-It will send all data to database successfully.
+It will send all data to database successfully. The Government body incharge can get access to all images(evaluated with Computer vision) with exact location. 
 
-6. User can cheeck progress status in MY REQUEST SECTION.
+6. User can check progress status in MY REQUEST SECTION.
 
 <img src="Screenshots/myrequest.jpg" width="300" height="500">
