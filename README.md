@@ -46,25 +46,25 @@ It will send all data to database successfully. The Government body incharge can
 <img src="Screenshots/myrequest.jpg" width="300" height="500">
 
 
-# How DataBase will worl:
+# How DataBase will work:
 
 The database will receive all the filled details by users in the main app and will store it in the following manners:
 
 1. User Authentication .
 
-<img src="Screenshots/authDetails.png" width="700" height="500">
+<img src="database Screenshots/authDetails.png" width="800" height="500">
 
 2. User Personel Details .
 
-<img src="Screenshots/UserDetails.png" width="700" height="500">
+<img src="database Screenshots/UserDetails.png" width="800" height="500">
 
 3. User Response.
 
-<img src="Screenshots/UserResponse.png" width="700" height="500">
+<img src="database Screenshots/UserResponse.png" width="800" height="500">
 
 4. User Picked Images.
 
-<img src="Screenshots/PickedImage.png" width="700" height="500">
+<img src="database Screenshots/PickedImage.png" width="800" height="500">
 
 
 
