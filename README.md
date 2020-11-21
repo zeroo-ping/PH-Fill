@@ -45,4 +45,4 @@ It will send all data to database successfully.
 
 6. User can cheeck progress status in MY REQUEST SECTION.
 
-<img src="Screenshots/MyRequest.jpg" width="300" height="500">
+<img src="Screenshots/myrequest.jpg" width="300" height="500">
